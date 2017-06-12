@@ -1,0 +1,19 @@
+.dashed{ /*оформлення рамок*/
+ 	border: 2px dashed;
+ 	width: 450px;
+ 	height: 70px;
+    padding: 10px;
+ }
+
+ a{
+ 	font-style: italic; /*шрифт формули*/
+ 	font-size: 20px;
+ }
+
+ .subcolor{ /*колір нижніх індексів формули*/
+ 	color: #0000ff;
+ }
+
+.supcolor{ /*колір верхніх індексів формули*/
+	color: #ff0000;
+}
